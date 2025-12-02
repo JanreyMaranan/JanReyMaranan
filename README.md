@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a dedicated **BSIT ** student with a passion 
 
 ### 📜 Certification
 
-* * [SQL and Relational Databases 101] (https://courses.cognitiveclass.ai/certificates/8871d870a873436aad5f1df2256dc301)
+* * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8871d870a873436aad5f1df2256dc301)
 
 ### 🛠 Skill Sets
 
