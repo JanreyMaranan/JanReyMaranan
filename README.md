@@ -1,10 +1,9 @@
 # Hi there, I'm Jan Rey Maranan! 👋
 
-Welcome to my GitHub profile! I am a dedicated **BSIT ** student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
-
+Welcome to my GitHub profile! I am a **2nd Year BS Information Technology (BSIT)** student passionate about web development, networking, and solving technical problems.
 ### 🎓 Education
 
-* **BSIT**
+* **BS Information Technology**
   New Era University
   2024–Present
 
@@ -14,9 +13,9 @@ Welcome to my GitHub profile! I am a dedicated **BSIT ** student with a passion 
 
 ### 🛠 Skill Sets
 
-* **Programming:** Java, JavaScript
+* **Programming:** Java, JavaScript, HTML, CSS
 * **Databases:** SQL
-* **Tools:** Lucidchart, Eclipse, HTML, Visual Studio Code 
+* **Tools:** Intellij, Eclipse, Visual Studio Code 
 
 ### 📞 Contact Me!
  [GITHUB](https://github.com/JanreyMaranan)
