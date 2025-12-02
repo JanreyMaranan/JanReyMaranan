@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I am a dedicated **BSIT ** student with a passion 
 * **Databases:** SQL
 * **Tools:** Lucidchart, Eclipse, HTML, Visual Studio Code 
 
-### 🤝 Let's Connect!
-
+### 📞 Contact Me!
+ [GITHUB](https://github.com/JanreyMaranan)
  
