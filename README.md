@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I am a **2nd Year BS Information Technology (BSIT)
 ### 🎓 Education
 
 * **BS Information Technology**
-  * **New Era University**
-  * **2024–Present**
+  * *New Era University**
+  * *2024–Present**
 
 ### 📜 Certification
 
