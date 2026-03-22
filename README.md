@@ -23,4 +23,4 @@ Welcome to my GitHub profile! I am a **2nd Year BS Information Technology (BSIT)
  [GITHUB](https://github.com/JanreyMaranan)
 
  ### 📖 NEU LIBRARY PORTAL
- (new-era-university-library.netlify.app)
+ [NEULIB](https://new-era-university-library.netlify.app)
